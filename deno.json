@@ -1,0 +1,16 @@
+{
+    "imports": {
+       "chalk": "npm:chalk@^4.1.2",
+       "web3":"npm:web3@^1.7.3",
+       "decimal.js": "npm:decimal.js@^10.4.3",
+       "cairoNodes":"./src/ast/cairoNodes/export.ts",
+       "./ast/cairoNodes": "./src/ast/cairoNodes/export.ts",
+       "@types/node":"npm:@types/node@^17.0.33",
+       "gcd":"npm:@algorithm.ts/gcd",
+       "keccak":"npm:@types/keccak",
+       "endent":"npm:endent@2.1.0",
+       "commander":"npm:commander@^9.1.0",
+       "glob":"npm:@types/glob@^8.1.0",
+       "assert": "./src/utils/assertFunc.ts"
+    }
+ }
